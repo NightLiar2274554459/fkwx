@@ -75,6 +75,8 @@
 			<!-- 每个依赖的version是必须的，但是由于继承了Spring Boot的项目配置，所以可以省略！ -->
 			<!-- <version>4.12</version> -->
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test -->
+		
 	</dependencies>
 
 	<build>
