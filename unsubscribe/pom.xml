@@ -87,7 +87,7 @@
 					<executable>true</executable>
 					<fork>true</fork>
 					<!-- JMX的端口不能重复 -->
-					<jmxPort>90085</jmxPort>
+					<jmxPort>52005</jmxPort>
 				</configuration>
 			</plugin>
 		</plugins>
